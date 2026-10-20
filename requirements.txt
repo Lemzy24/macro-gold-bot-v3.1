@@ -1,0 +1,7 @@
+streamlit>=1.37
+yfinance
+pandas
+numpy
+plyer
+requests
+tzdata
